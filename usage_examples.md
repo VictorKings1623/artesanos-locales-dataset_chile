@@ -90,8 +90,10 @@ print(craft_counts)
 # Analyze materials used
 print("\nMaterials Analysis:")
 for craft in df['craft_type'].unique():
-    materials = df[df['craft_type'] == craft]['materials_used'].values[0]
-    print(f"{craft}: {materials}")
+    craft_data = df[df['craft_type'] == craft]['materials_used']
+    if not craft_data.empty:
+        materials = craft_data.values[0]
+        print(f"{craft}: {materials}")
 ```
 
 ### 3. Experience Level Analysis
@@ -167,9 +169,9 @@ import json
 with open('artisans_dataset.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-# Filter by craft type
+# Filter by craft type (partial match for similar crafts like "Tejido en lana", "Tejido andino", etc.)
 craft = "Tejido"
-weavers = [a for a in data['artisans'] if craft in a['craft_type']]
+weavers = [a for a in data['artisans'] if craft.lower() in a['craft_type'].lower()]
 
 print(f"Artisans specializing in weaving ({len(weavers)}):")
 for artisan in weavers:
