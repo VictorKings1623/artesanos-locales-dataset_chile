@@ -1,0 +1,16 @@
+artisan_id,name,region,city,craft_type,materials_used,cultural_background,years_of_experience,contact_info
+1,María González,Región Metropolitana,Santiago,Cerámica,Arcilla greda roja,Tradición familiar mapuche - técnicas ancestrales de alfarería,25,maria.gonzalez@example.cl
+2,Pedro Soto,Región de Los Lagos,Puerto Montt,Tejido en lana,Lana de oveja chilota - tintes naturales,Herencia chilota - conocimientos transmitidos por generaciones,18,pedro.soto@example.cl
+3,Rosa Alarcón,Región de Valparaíso,Valparaíso,Orfebrería,Plata - cobre - lapislázuli,Inspiración en cultura andina y técnicas coloniales,30,rosa.alarcon@example.cl
+4,Juan Millán,Región del Biobío,Concepción,Cestería,Mimbre - fibras vegetales nativas,Tradición campesina del sur de Chile,15,juan.millan@example.cl
+5,Carmen Huenul,Región de La Araucanía,Temuco,Textiles mapuche,Lana de oveja - tintes naturales de plantas nativas,Cultura mapuche - diseños simbólicos ancestrales,22,carmen.huenul@example.cl
+6,Alberto Díaz,Región de Atacama,Copiapó,Tallado en piedra,Piedra combarbalita - cuarzo,Tradición minera del norte - tallado ornamental,20,alberto.diaz@example.cl
+7,Elena Vargas,Región de Coquimbo,La Serena,Talabartería,Cuero - fibras naturales,Técnicas tradicionales huasas y arrieras,28,elena.vargas@example.cl
+8,Roberto Cárdenas,Región del Maule,Talca,Alfarería,Arcilla negra de Quinchamalí,Estilo Quinchamalí - técnicas precolombinas,32,roberto.cardenas@example.cl
+9,Lucía Parra,Región de Aysén,Coyhaique,Tejido en lana,Lana de oveja - pelo de guanaco,Tradición patagónica - adaptación al clima extremo,12,lucia.parra@example.cl
+10,Francisco Henríquez,Región de Tarapacá,Iquique,Tejido andino,Lana de alpaca - fibra de llama,Cultura aymara - iconografía andina tradicional,35,francisco.henriquez@example.cl
+11,Patricia Morales,Región de O'Higgins,Rancagua,Bordado,Hilos de algodón - lana fina,Tradición campesina central - bordado de ropajes festivos,16,patricia.morales@example.cl
+12,Diego Fernández,Región de Los Ríos,Valdivia,Carpintería,Madera nativa (alerce - coigüe - laurel),Conocimientos de etnobotánica mapuche-huilliche,24,diego.fernandez@example.cl
+13,Isabel Castro,Región de Antofagasta,Antofagasta,Joyería étnica,Plata - cobre - turquesa,Inspiración en culturas del desierto - diseños geométricos,19,isabel.castro@example.cl
+14,Manuel Sepúlveda,Región de Magallanes,Punta Arenas,Artesanía en cuero,Cuero de oveja - lana,Tradición ganadera magallánica - influencia croata,27,manuel.sepulveda@example.cl
+15,Gabriela Rojas,Región de Arica y Parinacota,Arica,Tejido aymara,Lana de alpaca - algodón nativo,Cultura aymara del altiplano - diseños geométricos sagrados,21,gabriela.rojas@example.cl

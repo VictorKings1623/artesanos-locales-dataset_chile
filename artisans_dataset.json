@@ -1,0 +1,169 @@
+{
+  "artisans": [
+    {
+      "artisan_id": 1,
+      "name": "María González",
+      "region": "Región Metropolitana",
+      "city": "Santiago",
+      "craft_type": "Cerámica",
+      "materials_used": "Arcilla greda roja",
+      "cultural_background": "Tradición familiar mapuche - técnicas ancestrales de alfarería",
+      "years_of_experience": 25,
+      "contact_info": "maria.gonzalez@example.cl"
+    },
+    {
+      "artisan_id": 2,
+      "name": "Pedro Soto",
+      "region": "Región de Los Lagos",
+      "city": "Puerto Montt",
+      "craft_type": "Tejido en lana",
+      "materials_used": "Lana de oveja chilota - tintes naturales",
+      "cultural_background": "Herencia chilota - conocimientos transmitidos por generaciones",
+      "years_of_experience": 18,
+      "contact_info": "pedro.soto@example.cl"
+    },
+    {
+      "artisan_id": 3,
+      "name": "Rosa Alarcón",
+      "region": "Región de Valparaíso",
+      "city": "Valparaíso",
+      "craft_type": "Orfebrería",
+      "materials_used": "Plata - cobre - lapislázuli",
+      "cultural_background": "Inspiración en cultura andina y técnicas coloniales",
+      "years_of_experience": 30,
+      "contact_info": "rosa.alarcon@example.cl"
+    },
+    {
+      "artisan_id": 4,
+      "name": "Juan Millán",
+      "region": "Región del Biobío",
+      "city": "Concepción",
+      "craft_type": "Cestería",
+      "materials_used": "Mimbre - fibras vegetales nativas",
+      "cultural_background": "Tradición campesina del sur de Chile",
+      "years_of_experience": 15,
+      "contact_info": "juan.millan@example.cl"
+    },
+    {
+      "artisan_id": 5,
+      "name": "Carmen Huenul",
+      "region": "Región de La Araucanía",
+      "city": "Temuco",
+      "craft_type": "Textiles mapuche",
+      "materials_used": "Lana de oveja - tintes naturales de plantas nativas",
+      "cultural_background": "Cultura mapuche - diseños simbólicos ancestrales",
+      "years_of_experience": 22,
+      "contact_info": "carmen.huenul@example.cl"
+    },
+    {
+      "artisan_id": 6,
+      "name": "Alberto Díaz",
+      "region": "Región de Atacama",
+      "city": "Copiapó",
+      "craft_type": "Tallado en piedra",
+      "materials_used": "Piedra combarbalita - cuarzo",
+      "cultural_background": "Tradición minera del norte - tallado ornamental",
+      "years_of_experience": 20,
+      "contact_info": "alberto.diaz@example.cl"
+    },
+    {
+      "artisan_id": 7,
+      "name": "Elena Vargas",
+      "region": "Región de Coquimbo",
+      "city": "La Serena",
+      "craft_type": "Talabartería",
+      "materials_used": "Cuero - fibras naturales",
+      "cultural_background": "Técnicas tradicionales huasas y arrieras",
+      "years_of_experience": 28,
+      "contact_info": "elena.vargas@example.cl"
+    },
+    {
+      "artisan_id": 8,
+      "name": "Roberto Cárdenas",
+      "region": "Región del Maule",
+      "city": "Talca",
+      "craft_type": "Alfarería",
+      "materials_used": "Arcilla negra de Quinchamalí",
+      "cultural_background": "Estilo Quinchamalí - técnicas precolombinas",
+      "years_of_experience": 32,
+      "contact_info": "roberto.cardenas@example.cl"
+    },
+    {
+      "artisan_id": 9,
+      "name": "Lucía Parra",
+      "region": "Región de Aysén",
+      "city": "Coyhaique",
+      "craft_type": "Tejido en lana",
+      "materials_used": "Lana de oveja - pelo de guanaco",
+      "cultural_background": "Tradición patagónica - adaptación al clima extremo",
+      "years_of_experience": 12,
+      "contact_info": "lucia.parra@example.cl"
+    },
+    {
+      "artisan_id": 10,
+      "name": "Francisco Henríquez",
+      "region": "Región de Tarapacá",
+      "city": "Iquique",
+      "craft_type": "Tejido andino",
+      "materials_used": "Lana de alpaca - fibra de llama",
+      "cultural_background": "Cultura aymara - iconografía andina tradicional",
+      "years_of_experience": 35,
+      "contact_info": "francisco.henriquez@example.cl"
+    },
+    {
+      "artisan_id": 11,
+      "name": "Patricia Morales",
+      "region": "Región de O'Higgins",
+      "city": "Rancagua",
+      "craft_type": "Bordado",
+      "materials_used": "Hilos de algodón - lana fina",
+      "cultural_background": "Tradición campesina central - bordado de ropajes festivos",
+      "years_of_experience": 16,
+      "contact_info": "patricia.morales@example.cl"
+    },
+    {
+      "artisan_id": 12,
+      "name": "Diego Fernández",
+      "region": "Región de Los Ríos",
+      "city": "Valdivia",
+      "craft_type": "Carpintería",
+      "materials_used": "Madera nativa (alerce - coigüe - laurel)",
+      "cultural_background": "Conocimientos de etnobotánica mapuche-huilliche",
+      "years_of_experience": 24,
+      "contact_info": "diego.fernandez@example.cl"
+    },
+    {
+      "artisan_id": 13,
+      "name": "Isabel Castro",
+      "region": "Región de Antofagasta",
+      "city": "Antofagasta",
+      "craft_type": "Joyería étnica",
+      "materials_used": "Plata - cobre - turquesa",
+      "cultural_background": "Inspiración en culturas del desierto - diseños geométricos",
+      "years_of_experience": 19,
+      "contact_info": "isabel.castro@example.cl"
+    },
+    {
+      "artisan_id": 14,
+      "name": "Manuel Sepúlveda",
+      "region": "Región de Magallanes",
+      "city": "Punta Arenas",
+      "craft_type": "Artesanía en cuero",
+      "materials_used": "Cuero de oveja - lana",
+      "cultural_background": "Tradición ganadera magallánica - influencia croata",
+      "years_of_experience": 27,
+      "contact_info": "manuel.sepulveda@example.cl"
+    },
+    {
+      "artisan_id": 15,
+      "name": "Gabriela Rojas",
+      "region": "Región de Arica y Parinacota",
+      "city": "Arica",
+      "craft_type": "Tejido aymara",
+      "materials_used": "Lana de alpaca - algodón nativo",
+      "cultural_background": "Cultura aymara del altiplano - diseños geométricos sagrados",
+      "years_of_experience": 21,
+      "contact_info": "gabriela.rojas@example.cl"
+    }
+  ]
+}
